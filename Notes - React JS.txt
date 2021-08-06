@@ -1,0 +1,11 @@
+Notes - React JS:
+
+npx create-react-app <project-name>
+
+yarn start --command to start the app
+
+Component
+    1. Stateless Functional Component
+    2. Stateful Class component
+
+    npm install axios
